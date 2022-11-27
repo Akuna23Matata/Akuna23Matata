@@ -1,4 +1,4 @@
-- 👋 AkunaMatata! It means no worry! Click to Play!<br />
+- 👋 AkunaMatata! It means no worry!<br />
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mzABW42AIhM/0.jpg)](https://www.youtube.com/watch?v=mzABW42AIhM)
 
 
